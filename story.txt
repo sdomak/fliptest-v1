@@ -1,3 +1,3 @@
 06 May 2023 8:45 AM :: This is the first draft of my story.
-06 May 2023 9:17 AM :: I am upgrading the story as per the plan for elaboration 1.
-
+06 May 2023 9:17 AM :: I am upgrading the story as per the plan for phase 1.
+06 May 2023 9:21 AM :: Incorporated dev testing fixes.
