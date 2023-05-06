@@ -1,4 +1,4 @@
 06 May 2023 8:45 AM :: This is the first draft of my story.
 06 May 2023 9:17 AM :: I am upgrading the story as per the plan for phase 1.
 06 May 2023 9:21 AM :: Incorporated dev testing fixes.
-06 May 2023 0:39 PM :: new feature added.
+06 May 2023 9:39 PM :: main feature added.
